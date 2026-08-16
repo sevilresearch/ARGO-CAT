@@ -4,7 +4,7 @@
 **AI-Enhanced Robotic Companion for Nutrition and Hydration Monitoring in Older Adults**
 
 Wright Family Research Institute for Health and Technology
-Research Revolution Challenge 2026 — Phase 2 Submission
+Research Revolution Challenge 2026 — Phase 2 Submission - 
 University of West Florida
 
 ---
